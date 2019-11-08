@@ -1,5 +1,6 @@
 package ui;
 import java.util.Scanner;
+import model.University;
 
 public class Main {
 
@@ -7,6 +8,8 @@ public class Main {
 		Scanner sInt = new Scanner (System.in);
 		Scanner sString= new Scanner (System.in);
 		Scanner sDouble= new Scanner (System.in);
+		
+		University icesi = new University();
 		
 		System.out.println("\nSeguimiento de hoy\n");
 		
