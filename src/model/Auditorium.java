@@ -4,10 +4,10 @@ public class Auditorium {
 	private String location;
 	private String state;
 	
-	public Auditorium(String name, String location, String state) {
+	public Auditorium(String name, String location) {
 		this.name = name;
 		this.location = location;
-		this.state = state;
+		this.state = "Available";
 	}
 	
 	
