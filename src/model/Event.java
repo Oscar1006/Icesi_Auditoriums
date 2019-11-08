@@ -1,4 +1,5 @@
 package model;
+<<<<<<< HEAD
 
 public class Event {
 	
@@ -20,4 +21,7 @@ public class Event {
 		this.people = people;
 	}
 	
+=======
+public class Event{
+>>>>>>> a99d0151e3ea039a647254e57b89bd8d7b1416ba
 }
