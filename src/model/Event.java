@@ -20,4 +20,33 @@ public class Event {
 		this.people = people;
 	}
 
+	public String getName() {
+		return name;
+	}
+
+	public String getDate() {
+		return date;
+	}
+
+	public int getStartTime() {
+		return startTime;
+	}
+
+	public int getEndTime() {
+		return endTime;
+	}
+
+	public String getTeacher() {
+		return teacher;
+	}
+
+	public String getFaculty() {
+		return faculty;
+	}
+
+	public int getPeople() {
+		return people;
+	}
+	
+
 }
